@@ -1,0 +1,11 @@
+﻿#所有以"#"开头的行为注释,不进行解析
+#remarked by lyi 20170103
+#每一行代表一个词组，格式如“银行|yin3 hang3”
+#请严格按照格式进行自定义词组添加，以免造成解析错误
+校飞|jiao4 fei1
+嗯|en4
+成都|cheng2 du1
+昌都|chang1 du1
+首都|shou3 du1
+西藏|xi1 zang4
+谁|shui2
